@@ -1,0 +1,12 @@
+.about {
+    background-color: aquamarine;
+    border: 1px solid red;
+}
+.about-title {
+    color: white;
+}
+
+.li-text {
+    margin: 0;
+    font-size: 24px;
+}
